@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://images.google.com/?gl=us",
+    "chromeWebSecurity": false
+}
